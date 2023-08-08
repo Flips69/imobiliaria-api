@@ -1,0 +1,1 @@
+CEP: Serve para cadastrar o CEP de cada cidade para que o cliente encontre o imóvel desejado.
