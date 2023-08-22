@@ -17,11 +17,29 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/Flips69/repositorio.git
+ git clone https://github.com/Flips69/imobiliaria-api.git
 ```
 2. Acesse o diretório do projeto:
 ```
-cd exercicios-api-json-php-laravel
+cd imobiliaria-api
+```
+3. Iniciando o Repositório
+```
+composer update
+```
+4. Copiando o .env do exemplo
+```
+copy .env.example .env
+```
+5. Copiando git "usar.name" e git "user.email"
+```
+git config --global user.name "Flips69"
+
+git config --global user.email "aion.lipe@gmail.com"
+```
+6. Acessar o Visual Studio Code
+```
+code.
 ```
 
 ## Licença
